@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [2find](http://2find.online/)
 
-- 🌱 I’m currently learning **Next**
+- 🌱 I’m currently learning **Next.JS**
 
 - 🤝 I’m looking for help with [2find startup](http://2find.online/)
 
