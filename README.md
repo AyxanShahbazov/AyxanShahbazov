@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aykhan</h1>
 <h3 align="center">A passionate Mobile developer from Latvia</h3>
 
-- 🔭 I’m currently working on [2find](http://2find.online/)
+- 🔭 I’m currently working with **Flutter**
 
-- 🌱 I’m currently learning **Next.JS**
-
-- 🤝 I’m looking for help with [2find startup](http://2find.online/)
+- 🌱 I’m currently learning **Kotlin**
 
 - 💬 Ask me about **flutter, front-end, mobile development**
 
@@ -13,7 +11,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Vj4lYEM2kyfshGhhQt_E-bAHi3wpISB1/view?usp=sharing](https://drive.google.com/file/d/1Vj4lYEM2kyfshGhhQt_E-bAHi3wpISB1/view?usp=sharing)
 
-- ⚡ Fun fact **I love my startup more than woman ;)**
+- ⚡ Fun fact **I love my startup more than any woman;)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
