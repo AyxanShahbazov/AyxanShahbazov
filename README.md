@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aykhan</h1>
 <h3 align="center">A passionate Mobile developer from Latvia</h3>
 
-- 🔭 I’m currently working with **Flutter**
+- 🔭 I’m currently working with **ReactJs**
 
 - 🌱 I’m currently learning **Kotlin**
 
