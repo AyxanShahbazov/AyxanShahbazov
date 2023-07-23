@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Kotlin**
 
-- 💬 Ask me about **flutter, front-end, mobile development**
+- 💬 Ask me about **web-dev, front-end, mobile-dev**
 
 - 📫 How to reach me **ayhanshahbazov@gmail.com**
 
