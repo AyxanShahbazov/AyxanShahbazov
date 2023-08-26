@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences https://shorturl.at/qzMU1
 
-- ⚡ Fun fact **I love my startup more than any woman;)**
+- ⚡ Fun fact **I love my startup more than any woman!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
