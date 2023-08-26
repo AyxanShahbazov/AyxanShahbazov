@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ayhanshahbazov@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Vj4lYEM2kyfshGhhQt_E-bAHi3wpISB1/view?usp=sharing](https://drive.google.com/file/d/1Vj4lYEM2kyfshGhhQt_E-bAHi3wpISB1/view?usp=sharing)
+- 📄 Know about my experiences [https://shorturl.at/qzMU1)
 
 - ⚡ Fun fact **I love my startup more than any woman;)**
 
