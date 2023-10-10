@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aykhan</h1>
-<h3 align="center">A passionate Mobile developer from Latvia</h3>
+<h2 align="center">A passionate Frontend developer 🖥️</h2>
 
 - 🔭 I’m currently working with **ReactJs**
 
